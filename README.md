@@ -6,13 +6,7 @@ This repository is a collection of notebooks used for Olivia Leeson and Kelly Be
 This repository is a branch of Dr. Jacob Drew's EducationDataNC repository, which can be found at: https://github.com/jakemdrew/EducationDataNC.  The original repository contains the raw datasets pulled directly from NCPDI's Report Card data at: http://ncpublicschools.org. This repository contains dataset generation and code for predicting low performing public schools in North Carolina. Python code for the creation of datasets is written by Dr. Jacob Drew, and the original notebooks can  again be found at: https://github.com/jakemdrew/EducationDataNC
 
 # How is the Data Organized?
-Data for each acadmic school year between 2013-14 and 2016-17 are contained in separate folders. The source code of these folders were written by Dr. Jacob Drew, but have been edited for the purposes of this project. 
-
-## RLPS 
-RLPS stands for repeatedly low performing schools. This folder contains python notebooks for dataset creation, exploratory data analysis, and classification modeling to predict low performing schools. 
-
-## PCA 
-PCA stands for Principle Component Analysis. This folder contains python notebooks for feature importance. 
+Data for each academic school year between 2013-14 and 2016-17 are contained in separate folders. The source code of these folders were written by Dr. Jacob Drew, but have been edited for the purposes of this project. 
 
 # References
 Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
